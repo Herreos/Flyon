@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flyon.IData/1.0.0": {
+        "dependencies": {
+          "Flyon.Common": "1.0.0",
+          "Flyon.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Flyon.IData.dll": {}
+        }
+      },
+      "Flyon.Common/1.0.0": {
+        "runtime": {
+          "Flyon.Common.dll": {}
+        }
+      },
+      "Flyon.Domain/1.0.0": {
+        "dependencies": {
+          "Flyon.Common": "1.0.0"
+        },
+        "runtime": {
+          "Flyon.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyon.IData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flyon.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flyon.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

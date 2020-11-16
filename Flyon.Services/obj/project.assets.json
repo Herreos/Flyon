@@ -1,0 +1,177 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flyon.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Flyon.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flyon.Common.dll": {}
+        }
+      },
+      "Flyon.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Flyon.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Flyon.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flyon.Domain.dll": {}
+        }
+      },
+      "Flyon.IData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Flyon.Common": "1.0.0",
+          "Flyon.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Flyon.IData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flyon.IData.dll": {}
+        }
+      },
+      "Flyon.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Flyon.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flyon.Infrastructure.dll": {}
+        }
+      },
+      "Flyon.IServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Flyon.Common": "1.0.0",
+          "Flyon.Domain": "1.0.0",
+          "Flyon.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Flyon.IServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flyon.IServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyon.Common/1.0.0": {
+      "type": "project",
+      "path": "../Flyon.Common/Flyon.Common.csproj",
+      "msbuildProject": "../Flyon.Common/Flyon.Common.csproj"
+    },
+    "Flyon.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Flyon.Domain/Flyon.Domain.csproj",
+      "msbuildProject": "../Flyon.Domain/Flyon.Domain.csproj"
+    },
+    "Flyon.IData/1.0.0": {
+      "type": "project",
+      "path": "../Flyon.IData/Flyon.IData.csproj",
+      "msbuildProject": "../Flyon.IData/Flyon.IData.csproj"
+    },
+    "Flyon.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Flyon.Infrastructure/Flyon.Infrastructure.csproj",
+      "msbuildProject": "../Flyon.Infrastructure/Flyon.Infrastructure.csproj"
+    },
+    "Flyon.IServices/1.0.0": {
+      "type": "project",
+      "path": "../Flyon.IServices/Flyon.IServices.csproj",
+      "msbuildProject": "../Flyon.IServices/Flyon.IServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Flyon.Common >= 1.0.0",
+      "Flyon.Domain >= 1.0.0",
+      "Flyon.IData >= 1.0.0",
+      "Flyon.IServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\barto\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.Services\\Flyon.Services.csproj",
+      "projectName": "Flyon.Services",
+      "projectPath": "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.Services\\Flyon.Services.csproj",
+      "packagesPath": "C:\\Users\\barto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\barto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.Common\\Flyon.Common.csproj": {
+              "projectPath": "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.Common\\Flyon.Common.csproj"
+            },
+            "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.Domain\\Flyon.Domain.csproj": {
+              "projectPath": "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.Domain\\Flyon.Domain.csproj"
+            },
+            "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.IData\\Flyon.IData.csproj": {
+              "projectPath": "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.IData\\Flyon.IData.csproj"
+            },
+            "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.IServices\\Flyon.IServices.csproj": {
+              "projectPath": "C:\\Users\\barto\\OneDrive\\Pulpit\\Projects\\Flyon\\ASP.NET-Core\\Flyon\\Flyon.IServices\\Flyon.IServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

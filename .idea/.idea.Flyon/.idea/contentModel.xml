@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\barto\.nuget\packages\microsoft.net.test.sdk\16.5.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\barto\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\barto\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\barto\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\barto\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\barto\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\barto\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\barto\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Flyon.1190806586.00" t="ExcludeRecursive" />
+    <e p="C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon" t="IncludeFlat">
+      <e p="Flyon.Api" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="PostController.cs" t="Include" />
+          <e p="UserV2Controller.cs" t="Include" />
+        </e>
+        <e p="Flyon.Api.csproj" t="IncludeRecursive" />
+        <e p="Mappers" t="Include">
+          <e p="PostToPostViewModelMapper.cs" t="Include" />
+          <e p="UserToUserViewModelMapper.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Validation" t="Include">
+          <e p="CreatePostValidator.cs" t="Include" />
+          <e p="CreateUserValidator.cs" t="Include" />
+          <e p="EditPostValidator.cs" t="Include" />
+          <e p="EditUserValidator.cs" t="Include" />
+          <e p="ValidateModelAttribute.cs" t="Include" />
+        </e>
+        <e p="ViewModels" t="Include">
+          <e p="PostViewModel.cs" t="Include" />
+          <e p="UserViewModel.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.Common" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Enums" t="Include">
+          <e p="Gender.cs" t="Include" />
+        </e>
+        <e p="Flyon.Common.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Common.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Flyon.Data.SQL" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DAO" t="Include">
+          <e p="Comment.cs" t="Include" />
+          <e p="Post.cs" t="Include" />
+          <e p="Rating.cs" t="Include" />
+          <e p="Reservation.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="DAOConfiguration" t="Include">
+          <e p="CommentConfiguration.cs" t="Include" />
+          <e p="PostConfiguration.cs" t="Include" />
+          <e p="RatingConfiguration.cs" t="Include" />
+          <e p="ReservationConfiguration.cs" t="Include" />
+          <e p="UserConfiguration.cs" t="Include" />
+        </e>
+        <e p="Flyon.Data.SQL.csproj" t="IncludeRecursive" />
+        <e p="FlyonDbContext.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="DatabaseSeed.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Data.SQL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="PostRepository.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.Data.SQL.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Flyon.Data.SQL.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Data.SQL.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="PostRepositoryTest.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="UserRepositoryTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DomainExceptions" t="Include">
+          <e p="InvalidBirthDateException.cs" t="Include" />
+          <e p="InvalidOfferCityException.cs" t="Include" />
+        </e>
+        <e p="Flyon.Domain.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="Post.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="User.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.Domain.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Flyon.Domain.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Domain.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="PostTest.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="UserTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.IData" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Flyon.IData.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.IData.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="IPostRepository.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Flyon.Infrastructure.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Flyon.IServices" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Flyon.IServices.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.IServices.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="IPostService.cs" t="Include" />
+        </e>
+        <e p="Requests" t="Include">
+          <e p="CreatePost.cs" t="Include" />
+          <e p="CreateUser.cs" t="Include" />
+          <e p="EditPost.cs" t="Include" />
+          <e p="EditUser.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="IUserService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.Services" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Flyon.Services.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="PostService.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="UserService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.Services.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Flyon.Services.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyon.Services.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Post" t="Include">
+          <e p="PostServiceTest.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="UserServiceTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyon.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tests" t="Include" />
+    </e>
+  </component>
+</project>

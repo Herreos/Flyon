@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flyon.IServices/1.0.0": {
+        "dependencies": {
+          "Flyon.Common": "1.0.0",
+          "Flyon.Domain": "1.0.0",
+          "Flyon.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Flyon.IServices.dll": {}
+        }
+      },
+      "Flyon.Common/1.0.0": {
+        "runtime": {
+          "Flyon.Common.dll": {}
+        }
+      },
+      "Flyon.Domain/1.0.0": {
+        "dependencies": {
+          "Flyon.Common": "1.0.0"
+        },
+        "runtime": {
+          "Flyon.Domain.dll": {}
+        }
+      },
+      "Flyon.Infrastructure/1.0.0": {
+        "runtime": {
+          "Flyon.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyon.IServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flyon.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flyon.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flyon.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

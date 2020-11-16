@@ -1,0 +1,72 @@
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.deps.json
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csprojAssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CopyComplete
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_7\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.deps.json
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csprojAssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CopyComplete
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_8\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.deps.json
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csprojAssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CopyComplete
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.deps.json
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.pdb
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csprojAssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CopyComplete
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Rok_II\IV_Semestr\Programowanie_II_PROJ\Zadanie_9_kopia\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.deps.json
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.dll
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.pdb
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csprojAssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CopyComplete
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Job_Stuff\ASP.NET Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.deps.json
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Domain.pdb
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.dll
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\bin\Debug\netcoreapp3.1\Flyon.Common.pdb
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csprojAssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.csproj.CopyComplete
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.dll
+C:\Users\barto\OneDrive\Pulpit\Projects\Flyon\ASP.NET-Core\Flyon\Flyon.Domain\obj\Debug\netcoreapp3.1\Flyon.Domain.pdb
